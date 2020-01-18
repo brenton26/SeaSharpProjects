@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{1D472001-CA76-4F90-9A7B-20DA011840E5}|Default">
+﻿<Properties StartupConfiguration="{50C8735F-B9E0-4E18-B75A-1AA19BAB6DF6}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="23" Column="6" />
+      <File FileName="Program.cs" Line="7" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ConsoleApp5" expanded="True">
-            <Node name="ConsoleApp5" expanded="True">
+          <Node name="ConsoleApp6" expanded="True">
+            <Node name="ConsoleApp6" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,9 +15,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp6 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ConsoleApp5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

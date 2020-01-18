@@ -19,7 +19,6 @@ namespace ConsoleApp5
             bool qualified = (age > 15) && (dui == false) && (ticket_num <= 3);
             Console.WriteLine("Qualified?");
             Console.Write(qualified);
-
         }
     }
 }
