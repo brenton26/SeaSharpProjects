@@ -1,0 +1,11 @@
+/Users/brentonturner/Desktop/Developer/SeaSharp/ConsoleApp13/bin/Debug/netcoreapp3.1/ConsoleApp13
+/Users/brentonturner/Desktop/Developer/SeaSharp/ConsoleApp13/bin/Debug/netcoreapp3.1/ConsoleApp13.deps.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/ConsoleApp13/bin/Debug/netcoreapp3.1/ConsoleApp13.runtimeconfig.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/ConsoleApp13/bin/Debug/netcoreapp3.1/ConsoleApp13.runtimeconfig.dev.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/ConsoleApp13/bin/Debug/netcoreapp3.1/ConsoleApp13.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/ConsoleApp13/bin/Debug/netcoreapp3.1/ConsoleApp13.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/ConsoleApp13/obj/Debug/netcoreapp3.1/ConsoleApp13.csprojAssemblyReference.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/ConsoleApp13/obj/Debug/netcoreapp3.1/ConsoleApp13.AssemblyInfoInputs.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/ConsoleApp13/obj/Debug/netcoreapp3.1/ConsoleApp13.AssemblyInfo.cs
+/Users/brentonturner/Desktop/Developer/SeaSharp/ConsoleApp13/obj/Debug/netcoreapp3.1/ConsoleApp13.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/ConsoleApp13/obj/Debug/netcoreapp3.1/ConsoleApp13.pdb

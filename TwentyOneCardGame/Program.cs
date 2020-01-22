@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+
+
 
 namespace TwentyOneCardGame
 {
@@ -6,7 +9,15 @@ namespace TwentyOneCardGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            FullDeck deck = new FullDeck();            
+            deck.Shuffle(10);
+
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Rank + " of " + card.Suit);
+            }
+
+            Console.WriteLine("");
         }
     }
 }

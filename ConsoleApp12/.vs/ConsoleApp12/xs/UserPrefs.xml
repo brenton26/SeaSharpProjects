@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{FF834A09-CD0F-4E24-8703-A1EA0957266E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyCoolClass.cs">
+    <Files>
+      <File FileName="Program.cs" Line="15" Column="59" />
+      <File FileName="MyCoolClass.cs" Line="18" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApp12" expanded="True">
+            <Node name="ConsoleApp12" expanded="True">
+              <Node name="MyCoolClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp12 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
