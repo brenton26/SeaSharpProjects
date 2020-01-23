@@ -9,15 +9,31 @@ namespace TwentyOneCardGame
     {
         static void Main(string[] args)
         {
-            FullDeck deck = new FullDeck();            
-            deck.Shuffle(10);
-
-            foreach (Card card in deck.Cards)
+            TwentyOneGame game = new TwentyOneGame
             {
-                Console.WriteLine(card.Rank + " of " + card.Suit);
-            }
+                Dealer = "Billy",
+                Name = "Twenty One",
+                Players = new List<string>()
+                {
+                    "Billy",
+                    "Fred",
+                    "Ebeneezer",
+                    "George"
+                }
+            };
+            game.ListPlayers();
+            FullDeck deck = new FullDeck();
+            deck.Shuffle(2);
 
-            Console.WriteLine("");
+
+            ////Not yet implemented
+            //game.Play();
+
+            ////Prints deck to the console
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Rank + " of " + card.Suit);
+            //}
         }
     }
 }

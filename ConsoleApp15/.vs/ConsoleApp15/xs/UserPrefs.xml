@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{1FF92CB7-8062-4440-98B0-9131549605F9}|Default">
-  <MonoDevelop.Ide.ItemProperties.ConsoleApp15 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MathClass.cs">
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp15 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="MathClass.cs" Line="9" Column="1" />
+      <File FileName="Program.cs" Line="24" Column="53" />
+      <File FileName="MathClass.cs" Line="22" Column="9" />
+      <File FileName="StaticClass.cs" Line="10" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ConsoleApp15" expanded="True">
             <Node name="ConsoleApp15" expanded="True">
-              <Node name="MathClass.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
