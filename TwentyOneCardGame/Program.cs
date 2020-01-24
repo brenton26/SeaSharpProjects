@@ -22,12 +22,10 @@ namespace TwentyOneCardGame
                 }
             };
             game.ListPlayers();
-            FullDeck deck = new FullDeck();
-            deck.Shuffle(2);
 
+            //FullDeck deck = new FullDeck();
+            //deck.Shuffle(2);
 
-            ////Not yet implemented
-            //game.Play();
 
             ////Prints deck to the console
             //foreach (Card card in deck.Cards)
