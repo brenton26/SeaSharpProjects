@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{31CFB242-1BE7-4C18-8071-14A62137D2F5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DaysOfTheWeek.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="DaysOfTheWeek.cs" Line="6" Column="10" />
+      <File FileName="Program.cs" Line="19" Column="35" />
+      <File FileName="DaysOfTheWeek.cs" Line="12" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ConsoleApp18" expanded="True">
             <Node name="ConsoleApp18" expanded="True">
-              <Node name="DaysOfTheWeek.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -21,7 +21,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ConsoleApp18 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp18 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

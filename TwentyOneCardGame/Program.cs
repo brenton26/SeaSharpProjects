@@ -8,10 +8,18 @@ namespace TwentyOneCardGame
     class Program
     {
         static void Main(string[] args)
-        {
-            System.Threading.Thread.Sleep(30);
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
+        {            
+            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.Clear();
+
+            Card card1 = new Card();
+            Card card2 = card1;
+            card1.Rank = Rank.Ace;
+            card2.Rank = Rank.Two;
+            Console.WriteLine("Card 1: " + card1.Rank);
+            Console.WriteLine("Card 2: " + card2.Rank);
             
+
             //Game game = new TwentyOneGame
             //{
             //    Dealer = "Billy",
@@ -26,11 +34,11 @@ namespace TwentyOneCardGame
             deck.Shuffle(2);
 
 
-            //Prints deck to the console
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Rank + " of " + card.Suit);
-            }
+            ////Prints deck to the console
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Rank + " of " + card.Suit);
+            //}
         }
     }
 }

@@ -1,12 +1,8 @@
 ﻿using System;
 namespace TwentyOneCardGame
 {
-    public class Card
+    public struct Card
     {
-        public Card()
-        {
-
-        }
         public Suit Suit { get; set; }
         public Rank Rank { get; set; }
     }
