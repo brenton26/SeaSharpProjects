@@ -37,7 +37,7 @@ namespace ConsoleApp15
                     Console.WriteLine("The result is " + output);
 
                     Environment.Exit(101);
-          }
+                }
                 catch (FormatException)
                 {
                     Console.WriteLine("Please enter a whole number.");

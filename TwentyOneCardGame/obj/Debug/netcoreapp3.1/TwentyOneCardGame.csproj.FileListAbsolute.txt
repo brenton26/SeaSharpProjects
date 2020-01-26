@@ -1,5 +1,3 @@
-/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/obj/Debug/netcoreapp3.1/TwentyOneCardGame.AssemblyInfoInputs.cache
-/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/obj/Debug/netcoreapp3.1/TwentyOneCardGame.AssemblyInfo.cs
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/TwentyOneCardGame
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/TwentyOneCardGame.deps.json
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/TwentyOneCardGame.runtimeconfig.json
@@ -26,6 +24,8 @@
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/obj/Debug/netcoreapp3.1/TwentyOneCardGame.AssemblyInfoInputs.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/obj/Debug/netcoreapp3.1/TwentyOneCardGame.AssemblyInfo.cs
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/obj/Debug/netcoreapp3.1/TwentyOneCardGame.csproj.CopyComplete
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/obj/Debug/netcoreapp3.1/TwentyOneCardGame.dll
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/obj/Debug/netcoreapp3.1/TwentyOneCardGame.pdb

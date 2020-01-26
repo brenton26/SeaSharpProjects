@@ -1,7 +1,7 @@
 ﻿using System;
 namespace TwentyOneCardGame
 {
-    public class TwentyOneGame : Game //Inherits from the Game class
+    public class TwentyOneGame : Game, IWalkAway //Inherits from the Game class and the IWalkAway interface
     {
         public TwentyOneGame()
         {
@@ -17,6 +17,11 @@ namespace TwentyOneCardGame
             Console.WriteLine("21 Players:");
             Console.WriteLine("");
             base.ListPlayers();
+        }
+
+        public void WalkAway(Player player)
+        {
+            throw new NotSupportedException();
         }
     }
 }

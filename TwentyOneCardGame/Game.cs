@@ -9,7 +9,7 @@ namespace TwentyOneCardGame
         {
         }
 
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -17,9 +17,9 @@ namespace TwentyOneCardGame
 
         public virtual void ListPlayers() //Virtual means that this method gets inherited by inheriting classes, but, the inheriting class has the ability to override it
         {
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
         }
     }
