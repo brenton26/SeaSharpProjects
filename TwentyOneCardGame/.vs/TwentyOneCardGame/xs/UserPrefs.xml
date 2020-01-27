@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{EBFD1473-D7B2-49DA-9B6A-E63A6080F2E4}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="21" Column="13" IsPinned="True" />
+      <File FileName="Program.cs" Line="21" Column="46" IsPinned="True" />
       <File FileName="Card.cs" Line="5" Column="6" />
-      <File FileName="FullDeck.cs" Line="10" Column="27" />
+      <File FileName="FullDeck.cs" />
       <File FileName="Game.cs" />
       <File FileName="TwentyOneGame.cs" />
       <File FileName="Player.cs" />
