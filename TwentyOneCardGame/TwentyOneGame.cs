@@ -62,6 +62,7 @@ namespace TwentyOneCardGame
                         {
                             Dealer.Balance += entry.Value;
                         }
+                        return;
                     }
                 }
             }
@@ -95,8 +96,16 @@ namespace TwentyOneCardGame
                             player.Balance);
                         Console.Write("Do you want to play again?: ");
                         answer = Console.ReadLine().ToLower();
-                        if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya") player.IsActive = true;
-                        else player.IsActive = false;
+                        if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
+                        {
+                            player.IsActive = true;
+                            return;
+                        }
+                        else
+                        {
+                            player.IsActive = false;
+                            return;
+                        }
                     }
                 }
             }
