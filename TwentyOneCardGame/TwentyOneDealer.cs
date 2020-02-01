@@ -1,10 +1,13 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace TwentyOneCardGame
 {
-    public class TwentyOneDealer
+    public class TwentyOneDealer : Dealer
     {
-        public TwentyOneDealer()
-        {
-        }
+        public bool Stay { get; set; }
+        public bool IsBusted  { get; set; }
+        public List<Card> Hand { get; set; } = new List<Card>();
     }
 }
+

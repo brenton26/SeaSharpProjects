@@ -5,6 +5,11 @@ namespace TwentyOneCardGame
     {
         public Suit Suit { get; set; }
         public Rank Rank { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format("{0} of {1}", Rank, Suit);
+        }
     }
     public enum Suit
     {
