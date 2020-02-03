@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 
 namespace TwentyOneCardGame
 {
     class Program
     {
         static void Main(string[] args)
-        {
-    
+        {   
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.Clear();
+
+            
 
             Console.WriteLine("Welcome to Ed's fabulous 21 game!");
             Console.Write("Let's start by you telling me your name: ");

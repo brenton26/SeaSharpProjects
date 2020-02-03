@@ -1,0 +1,11 @@
+/Users/brentonturner/Desktop/Developer/SeaSharp/DateTime/bin/Debug/netcoreapp3.1/DateTime
+/Users/brentonturner/Desktop/Developer/SeaSharp/DateTime/bin/Debug/netcoreapp3.1/DateTime.deps.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/DateTime/bin/Debug/netcoreapp3.1/DateTime.runtimeconfig.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/DateTime/bin/Debug/netcoreapp3.1/DateTime.runtimeconfig.dev.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/DateTime/bin/Debug/netcoreapp3.1/DateTime.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/DateTime/bin/Debug/netcoreapp3.1/DateTime.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/DateTime/obj/Debug/netcoreapp3.1/DateTime.csprojAssemblyReference.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/DateTime/obj/Debug/netcoreapp3.1/DateTime.AssemblyInfoInputs.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/DateTime/obj/Debug/netcoreapp3.1/DateTime.AssemblyInfo.cs
+/Users/brentonturner/Desktop/Developer/SeaSharp/DateTime/obj/Debug/netcoreapp3.1/DateTime.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/DateTime/obj/Debug/netcoreapp3.1/DateTime.pdb
