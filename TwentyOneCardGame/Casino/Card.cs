@@ -1,5 +1,6 @@
 ﻿using System;
-namespace TwentyOneCardGame
+
+namespace Casino
 {
     public struct Card
     {

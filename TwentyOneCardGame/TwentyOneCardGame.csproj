@@ -7,8 +7,12 @@
 
   <ItemGroup>
     <Compile Remove="DecK.cs" />
+    <Compile Remove="Casino\Class1.cs" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.4.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Casino\Casino.csproj" />
   </ItemGroup>
 </Project>

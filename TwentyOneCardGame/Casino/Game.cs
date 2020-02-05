@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TwentyOneCardGame
+namespace Casino
 {
     public abstract class Game //The abstract keyword defines a class that cannot be instantiated, only inherited from
     {

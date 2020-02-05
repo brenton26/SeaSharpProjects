@@ -1,5 +1,5 @@
 ﻿using System;
-namespace TwentyOneCardGame
+namespace Casino.Interfaces
 {
     interface IWalkAway
     {

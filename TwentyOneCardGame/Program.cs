@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.IO;
+using Casino;
+using Casino.TwentyOneCardGame;
 
 namespace TwentyOneCardGame
 {

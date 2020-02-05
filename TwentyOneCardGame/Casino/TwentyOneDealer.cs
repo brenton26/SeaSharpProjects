@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TwentyOneCardGame
+namespace Casino.TwentyOneCardGame
 {
     public class TwentyOneDealer : Dealer
     {

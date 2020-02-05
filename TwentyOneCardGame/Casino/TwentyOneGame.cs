@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Casino.Interfaces;
 
-namespace TwentyOneCardGame
+namespace Casino.TwentyOneCardGame
 {
     public class TwentyOneGame : Game, IWalkAway //Inherits from the Game class and the IWalkAway interface
     {
