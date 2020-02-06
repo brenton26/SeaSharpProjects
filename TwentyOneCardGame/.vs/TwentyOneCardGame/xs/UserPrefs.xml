@@ -1,33 +1,27 @@
 ﻿<Properties StartupConfiguration="{EBFD1473-D7B2-49DA-9B6A-E63A6080F2E4}|Default">
-  <MonoDevelop.Ide.ItemProperties.Casino FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Casino/IWalkAway.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Casino/Card.cs" Line="2" Column="1" IsPinned="True" />
-      <File FileName="Casino/TwentyOneRules.cs" Line="12" Column="30" IsPinned="True" />
-      <File FileName="Program.cs" Line="8" Column="18" />
-      <File FileName="Casino/Dealer.cs" Line="28" Column="1" />
-      <File FileName="Casino/FullDeck.cs" Line="4" Column="17" />
-      <File FileName="Casino/Game.cs" Line="4" Column="17" />
-      <File FileName="Casino/Player.cs" Line="4" Column="17" />
-      <File FileName="Casino/TwentyOneGame.cs" Line="12" Column="10" />
-      <File FileName="Casino/IWalkAway.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="49" Column="75" />
+      <File FileName="Casino/TwentyOneGame.cs" Line="37" Column="48" />
+      <File FileName="Casino/TwentyOneRules.cs" Line="1" Column="1" />
+      <File FileName="Casino/Player.cs" Line="12" Column="40" />
+      <File FileName="Casino/Dealer.cs" Line="1" Column="1" />
+      <File FileName="Casino/FraudException.cs" Line="4" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TwentyOneCardGame" expanded="True">
             <Node name="Casino" expanded="True">
-              <Node name="IWalkAway.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
             </Node>
             <Node name="TwentyOneCardGame" expanded="True">
-              <Node name="Casino" expanded="True" />
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>Dealer</Value>
         </State>
       </Pad>
     </Pads>

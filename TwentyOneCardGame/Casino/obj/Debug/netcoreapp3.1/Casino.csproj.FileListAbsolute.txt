@@ -1,8 +1,8 @@
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/Casino/bin/Debug/netcoreapp3.1/Casino.deps.json
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/Casino/bin/Debug/netcoreapp3.1/Casino.dll
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/Casino/bin/Debug/netcoreapp3.1/Casino.pdb
-/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/Casino/obj/Debug/netcoreapp3.1/Casino.csprojAssemblyReference.cache
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/Casino/obj/Debug/netcoreapp3.1/Casino.AssemblyInfoInputs.cache
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/Casino/obj/Debug/netcoreapp3.1/Casino.AssemblyInfo.cs
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/Casino/obj/Debug/netcoreapp3.1/Casino.dll
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/Casino/obj/Debug/netcoreapp3.1/Casino.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/Casino/obj/Debug/netcoreapp3.1/Casino.csprojAssemblyReference.cache

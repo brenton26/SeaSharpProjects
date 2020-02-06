@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Casino.Interfaces
 {
     interface IWalkAway

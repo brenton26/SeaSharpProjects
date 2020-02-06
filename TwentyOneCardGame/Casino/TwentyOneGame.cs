@@ -21,11 +21,21 @@ namespace Casino.TwentyOneCardGame
             Dealer.Stay = false;
             Dealer.Deck = new FullDeck();
             Dealer.Deck.Shuffle();
-            Console.WriteLine("Place your bet!");
 
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool valid_answer = false;
+                int bet = 0;
+                while (!valid_answer)
+                {
+                    Console.WriteLine("Place your bet!");
+                    valid_answer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!valid_answer) { Console.WriteLine("Please enter digits only."); }
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException();
+                }
                 bool successfully_bet = player.Bet(bet);
                 if (!successfully_bet)
                 {

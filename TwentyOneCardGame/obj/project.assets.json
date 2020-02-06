@@ -279,16 +279,6 @@
             "rid": "win"
           }
         }
-      },
-      "Casino/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Casino.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Casino.dll": {}
-        }
       }
     }
   },
@@ -1022,16 +1012,10 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "Casino/1.0.0": {
-      "type": "project",
-      "path": "Casino/Casino.csproj",
-      "msbuildProject": "Casino/Casino.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Casino >= 1.0.0",
       "EntityFramework >= 6.4.0"
     ]
   },
@@ -1062,11 +1046,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/Casino/Casino.csproj": {
-              "projectPath": "/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/Casino/Casino.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

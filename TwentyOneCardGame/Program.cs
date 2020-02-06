@@ -10,17 +10,27 @@ namespace TwentyOneCardGame
     class Program
     {
         static void Main(string[] args)
-        {   
+        {
+            const string casino_name = "Ed's";
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.Clear();
 
-            
-
-            Console.WriteLine("Welcome to Ed's fabulous 21 game!");
+            Console.WriteLine("Welcome to {0} fabulous 21 game!", casino_name);
             Console.Write("Let's start by you telling me your name: ");
             string player_name = Console.ReadLine();
-            Console.Write("And how much money did you bring today: ");
-            int player_money = Convert.ToInt32(Console.ReadLine());
+
+            bool valid_answer = false;
+            int bank = 0;
+            while (!valid_answer)
+            {
+                Console.Write("And how much money did you bring today: ");
+                valid_answer = int.TryParse(Console.ReadLine(), out bank);
+                if (!valid_answer) { Console.WriteLine("Please enter only digits."); }
+            }
+
+            int player_money = bank;
+
+
             Console.Write("Hello {0}, would you like to join a game of 21 right now?: ", player_name);
             string answer = Console.ReadLine().ToLower();
             if (answer == "yes" || answer == "y" || answer == "yeah" || answer == "yup" || answer == "ya")
@@ -33,7 +43,18 @@ namespace TwentyOneCardGame
 
                 while (player.IsActive && player.Balance > 0)
                 {
-                    game.Play();
+                    try {game.Play();}
+                    catch (FraudException)
+                    {
+                        Console.WriteLine("Security! Kick this person out!");
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An error occured. Please contact the casino owner.");
+                        return;
+                    }
+                    
                 }
                 game -= player;
                 Console.WriteLine("Thanks for playing!");
