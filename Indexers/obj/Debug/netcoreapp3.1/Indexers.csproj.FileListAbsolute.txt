@@ -1,0 +1,11 @@
+/Users/brentonturner/Desktop/Developer/SeaSharp/Indexers/bin/Debug/netcoreapp3.1/Indexers
+/Users/brentonturner/Desktop/Developer/SeaSharp/Indexers/bin/Debug/netcoreapp3.1/Indexers.deps.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Indexers/bin/Debug/netcoreapp3.1/Indexers.runtimeconfig.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Indexers/bin/Debug/netcoreapp3.1/Indexers.runtimeconfig.dev.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Indexers/bin/Debug/netcoreapp3.1/Indexers.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/Indexers/bin/Debug/netcoreapp3.1/Indexers.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/Indexers/obj/Debug/netcoreapp3.1/Indexers.csprojAssemblyReference.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/Indexers/obj/Debug/netcoreapp3.1/Indexers.AssemblyInfoInputs.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/Indexers/obj/Debug/netcoreapp3.1/Indexers.AssemblyInfo.cs
+/Users/brentonturner/Desktop/Developer/SeaSharp/Indexers/obj/Debug/netcoreapp3.1/Indexers.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/Indexers/obj/Debug/netcoreapp3.1/Indexers.pdb

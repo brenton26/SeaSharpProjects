@@ -1,0 +1,11 @@
+/Users/brentonturner/Desktop/Developer/SeaSharp/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers
+/Users/brentonturner/Desktop/Developer/SeaSharp/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.deps.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.runtimeconfig.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.runtimeconfig.dev.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.csprojAssemblyReference.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.AssemblyInfoInputs.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.AssemblyInfo.cs
+/Users/brentonturner/Desktop/Developer/SeaSharp/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.pdb

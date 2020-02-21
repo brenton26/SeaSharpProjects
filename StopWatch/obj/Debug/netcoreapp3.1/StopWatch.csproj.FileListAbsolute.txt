@@ -1,0 +1,11 @@
+/Users/brentonturner/Desktop/Developer/SeaSharp/StopWatch/bin/Debug/netcoreapp3.1/StopWatch
+/Users/brentonturner/Desktop/Developer/SeaSharp/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.deps.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.runtimeconfig.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.runtimeconfig.dev.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.csprojAssemblyReference.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.AssemblyInfoInputs.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.AssemblyInfo.cs
+/Users/brentonturner/Desktop/Developer/SeaSharp/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.pdb

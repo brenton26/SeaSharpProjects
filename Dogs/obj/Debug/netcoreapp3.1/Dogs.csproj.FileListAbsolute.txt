@@ -1,0 +1,11 @@
+/Users/brentonturner/Desktop/Developer/SeaSharp/Dogs/bin/Debug/netcoreapp3.1/Dogs
+/Users/brentonturner/Desktop/Developer/SeaSharp/Dogs/bin/Debug/netcoreapp3.1/Dogs.deps.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Dogs/bin/Debug/netcoreapp3.1/Dogs.runtimeconfig.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Dogs/bin/Debug/netcoreapp3.1/Dogs.runtimeconfig.dev.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Dogs/bin/Debug/netcoreapp3.1/Dogs.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/Dogs/bin/Debug/netcoreapp3.1/Dogs.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/Dogs/obj/Debug/netcoreapp3.1/Dogs.csprojAssemblyReference.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/Dogs/obj/Debug/netcoreapp3.1/Dogs.AssemblyInfoInputs.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/Dogs/obj/Debug/netcoreapp3.1/Dogs.AssemblyInfo.cs
+/Users/brentonturner/Desktop/Developer/SeaSharp/Dogs/obj/Debug/netcoreapp3.1/Dogs.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/Dogs/obj/Debug/netcoreapp3.1/Dogs.pdb

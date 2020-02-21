@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyOneCardGame", "Twenty
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "Casino\Casino.csproj", "{BD1CF145-8BDF-420F-A445-B014285DD683}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{698E9871-51D5-4345-9FFF-87225B69EA5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{BD1CF145-8BDF-420F-A445-B014285DD683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD1CF145-8BDF-420F-A445-B014285DD683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD1CF145-8BDF-420F-A445-B014285DD683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698E9871-51D5-4345-9FFF-87225B69EA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698E9871-51D5-4345-9FFF-87225B69EA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698E9871-51D5-4345-9FFF-87225B69EA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698E9871-51D5-4345-9FFF-87225B69EA5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

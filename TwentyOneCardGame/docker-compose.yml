@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  twentyonecardgame:
+    image: ${DOCKER_REGISTRY-}twentyonecardgame
+    build:
+      context: .
+      dockerfile: ./Dockerfile

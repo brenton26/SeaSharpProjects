@@ -1,0 +1,14 @@
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/bin/Debug/netcoreapp3.1/MicrosoftWikiScraper
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/bin/Debug/netcoreapp3.1/MicrosoftWikiScraper.deps.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/bin/Debug/netcoreapp3.1/MicrosoftWikiScraper.runtimeconfig.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/bin/Debug/netcoreapp3.1/MicrosoftWikiScraper.runtimeconfig.dev.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/bin/Debug/netcoreapp3.1/MicrosoftWikiScraper.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/bin/Debug/netcoreapp3.1/MicrosoftWikiScraper.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/obj/Debug/netcoreapp3.1/MicrosoftWikiScraper.csprojAssemblyReference.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/obj/Debug/netcoreapp3.1/MicrosoftWikiScraper.AssemblyInfoInputs.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/obj/Debug/netcoreapp3.1/MicrosoftWikiScraper.AssemblyInfo.cs
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/obj/Debug/netcoreapp3.1/MicrosoftWikiScraper.csproj.CopyComplete
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/obj/Debug/netcoreapp3.1/MicrosoftWikiScraper.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/MicrosoftWikiScraper/obj/Debug/netcoreapp3.1/MicrosoftWikiScraper.pdb

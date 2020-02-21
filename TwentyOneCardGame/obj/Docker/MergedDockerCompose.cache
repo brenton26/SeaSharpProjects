@@ -1,0 +1,7 @@
+services:
+  twentyonecardgame:
+    build:
+      context: /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame
+      dockerfile: ./Dockerfile
+    image: twentyonecardgame
+version: '3.4'

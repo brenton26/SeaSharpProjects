@@ -30,3 +30,11 @@
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/obj/Debug/netcoreapp3.1/TwentyOneCardGame.csproj.CopyComplete
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/obj/Debug/netcoreapp3.1/TwentyOneCardGame.dll
 /Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/obj/Debug/netcoreapp3.1/TwentyOneCardGame.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/TwentyOneCardGame/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll

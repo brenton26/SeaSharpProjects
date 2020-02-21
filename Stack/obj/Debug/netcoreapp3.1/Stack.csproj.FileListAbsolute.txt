@@ -1,0 +1,11 @@
+/Users/brentonturner/Desktop/Developer/SeaSharp/Stack/bin/Debug/netcoreapp3.1/Stack
+/Users/brentonturner/Desktop/Developer/SeaSharp/Stack/bin/Debug/netcoreapp3.1/Stack.deps.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Stack/bin/Debug/netcoreapp3.1/Stack.runtimeconfig.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Stack/bin/Debug/netcoreapp3.1/Stack.runtimeconfig.dev.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Stack/bin/Debug/netcoreapp3.1/Stack.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/Stack/bin/Debug/netcoreapp3.1/Stack.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/Stack/obj/Debug/netcoreapp3.1/Stack.csprojAssemblyReference.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/Stack/obj/Debug/netcoreapp3.1/Stack.AssemblyInfoInputs.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/Stack/obj/Debug/netcoreapp3.1/Stack.AssemblyInfo.cs
+/Users/brentonturner/Desktop/Developer/SeaSharp/Stack/obj/Debug/netcoreapp3.1/Stack.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/Stack/obj/Debug/netcoreapp3.1/Stack.pdb

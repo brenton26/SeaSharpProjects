@@ -1,25 +1,25 @@
-﻿<Properties StartupConfiguration="{EBFD1473-D7B2-49DA-9B6A-E63A6080F2E4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+﻿<Properties StartupConfiguration="{698E9871-51D5-4345-9FFF-87225B69EA5A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwentyOneCardGame.csproj">
     <Files>
-      <File FileName="Program.cs" Line="49" Column="75" />
-      <File FileName="Casino/TwentyOneGame.cs" Line="37" Column="48" />
-      <File FileName="Casino/TwentyOneRules.cs" Line="1" Column="1" />
-      <File FileName="Casino/Player.cs" Line="12" Column="40" />
-      <File FileName="Casino/Dealer.cs" Line="1" Column="1" />
-      <File FileName="Casino/FraudException.cs" Line="4" Column="42" />
+      <File FileName="Program.cs" Line="39" Column="1" />
+      <File FileName="Casino/TwentyOneGame.cs" />
+      <File FileName="Casino/TwentyOneRules.cs" />
+      <File FileName="Casino/Player.cs" />
+      <File FileName="Casino/Dealer.cs" />
+      <File FileName="Casino/FraudException.cs" />
+      <File FileName="Dockerfile" Line="1" Column="1" />
+      <File FileName="docker-compose.yml" />
+      <File FileName="TwentyOneCardGame.csproj" Line="20" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TwentyOneCardGame" expanded="True">
-            <Node name="Casino" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="TwentyOneCardGame" expanded="True">
+            <Node name="Casino" expanded="True" />
+            <Node name="docker-compose" expanded="True" />
+            <Node name="TwentyOneCardGame" expanded="True" selected="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+              <Node name="Casino" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -29,6 +29,7 @@
   <MonoDevelop.Ide.ItemProperties.TwentyOneCardGame PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,11 @@
+/Users/brentonturner/Desktop/Developer/SeaSharp/Methods/bin/Debug/netcoreapp3.1/Methods
+/Users/brentonturner/Desktop/Developer/SeaSharp/Methods/bin/Debug/netcoreapp3.1/Methods.deps.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.dev.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Methods/bin/Debug/netcoreapp3.1/Methods.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/Methods/bin/Debug/netcoreapp3.1/Methods.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/Methods/obj/Debug/netcoreapp3.1/Methods.csprojAssemblyReference.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfoInputs.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfo.cs
+/Users/brentonturner/Desktop/Developer/SeaSharp/Methods/obj/Debug/netcoreapp3.1/Methods.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/Methods/obj/Debug/netcoreapp3.1/Methods.pdb
