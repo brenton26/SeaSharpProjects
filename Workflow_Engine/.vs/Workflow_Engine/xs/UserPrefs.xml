@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D60F44F2-C8E6-486E-8500-5187D0783AC9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkflowEngine.cs">
+    <Files>
+      <File FileName="Program.cs" Line="12" Column="1" />
+      <File FileName="Workflow.cs" Line="11" Column="1" />
+      <File FileName="Activity.cs" Line="7" Column="2" />
+      <File FileName="WorkflowEngine.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Workflow_Engine" expanded="True">
+            <Node name="Workflow_Engine" expanded="True">
+              <Node name="WorkflowEngine.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Workflow__Engine FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

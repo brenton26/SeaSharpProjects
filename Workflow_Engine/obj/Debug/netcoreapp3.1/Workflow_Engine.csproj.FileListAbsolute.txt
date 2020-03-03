@@ -1,0 +1,11 @@
+/Users/brentonturner/Desktop/Developer/SeaSharp/Workflow_Engine/bin/Debug/netcoreapp3.1/Workflow_Engine
+/Users/brentonturner/Desktop/Developer/SeaSharp/Workflow_Engine/bin/Debug/netcoreapp3.1/Workflow_Engine.deps.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Workflow_Engine/bin/Debug/netcoreapp3.1/Workflow_Engine.runtimeconfig.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Workflow_Engine/bin/Debug/netcoreapp3.1/Workflow_Engine.runtimeconfig.dev.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Workflow_Engine/bin/Debug/netcoreapp3.1/Workflow_Engine.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/Workflow_Engine/bin/Debug/netcoreapp3.1/Workflow_Engine.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/Workflow_Engine/obj/Debug/netcoreapp3.1/Workflow_Engine.csprojAssemblyReference.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/Workflow_Engine/obj/Debug/netcoreapp3.1/Workflow_Engine.AssemblyInfoInputs.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/Workflow_Engine/obj/Debug/netcoreapp3.1/Workflow_Engine.AssemblyInfo.cs
+/Users/brentonturner/Desktop/Developer/SeaSharp/Workflow_Engine/obj/Debug/netcoreapp3.1/Workflow_Engine.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/Workflow_Engine/obj/Debug/netcoreapp3.1/Workflow_Engine.pdb

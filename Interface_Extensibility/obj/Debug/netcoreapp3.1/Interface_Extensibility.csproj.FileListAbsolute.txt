@@ -1,0 +1,11 @@
+/Users/brentonturner/Desktop/Developer/SeaSharp/Interface_Extensibility/bin/Debug/netcoreapp3.1/Interface_Extensibility
+/Users/brentonturner/Desktop/Developer/SeaSharp/Interface_Extensibility/bin/Debug/netcoreapp3.1/Interface_Extensibility.deps.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Interface_Extensibility/bin/Debug/netcoreapp3.1/Interface_Extensibility.runtimeconfig.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Interface_Extensibility/bin/Debug/netcoreapp3.1/Interface_Extensibility.runtimeconfig.dev.json
+/Users/brentonturner/Desktop/Developer/SeaSharp/Interface_Extensibility/bin/Debug/netcoreapp3.1/Interface_Extensibility.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/Interface_Extensibility/bin/Debug/netcoreapp3.1/Interface_Extensibility.pdb
+/Users/brentonturner/Desktop/Developer/SeaSharp/Interface_Extensibility/obj/Debug/netcoreapp3.1/Interface_Extensibility.csprojAssemblyReference.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/Interface_Extensibility/obj/Debug/netcoreapp3.1/Interface_Extensibility.AssemblyInfoInputs.cache
+/Users/brentonturner/Desktop/Developer/SeaSharp/Interface_Extensibility/obj/Debug/netcoreapp3.1/Interface_Extensibility.AssemblyInfo.cs
+/Users/brentonturner/Desktop/Developer/SeaSharp/Interface_Extensibility/obj/Debug/netcoreapp3.1/Interface_Extensibility.dll
+/Users/brentonturner/Desktop/Developer/SeaSharp/Interface_Extensibility/obj/Debug/netcoreapp3.1/Interface_Extensibility.pdb

@@ -1,25 +1,25 @@
-﻿<Properties StartupConfiguration="{607FD91E-F818-4375-946B-8F585FD9A0AF}|Default">
+﻿<Properties StartupConfiguration="{29CD3212-3C8E-4C95-8C81-EE026085E0AE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="61" Column="43" />
-      <File FileName="Testability.UnitTests/UnitTest1.cs" />
+      <File FileName="Program.cs" Line="10" Column="56" />
+      <File FileName="DbMigrator.cs" Line="19" Column="10" />
+      <File FileName="ILogger.cs" Line="1" Column="1" />
+      <File FileName="ConsoleLogger.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="InterfacesAndTests" expanded="True">
-            <Node name="InterfacesAndTests" expanded="True">
+          <Node name="Interface_Extensibility" expanded="True">
+            <Node name="Interface_Extensibility" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="Testability.UnitTests" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.InterfacesAndTests FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Interface__Extensibility PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Testability.UnitTests FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
